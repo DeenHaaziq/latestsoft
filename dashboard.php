@@ -62,7 +62,8 @@ include 'header.php';
             <ul>
                <li><a href="addUser.php">Add User</a></li>
                <li><a href="purchases.php">purchases</a></li>
-               <li><a href="stocks.php">stocks</a></li>
+               <li><a href="stocks.php">Inventory</a></li>
+               <li><a href="sales.php">Sales</a></li>
 
             </ul>
         </div>
